@@ -1,6 +1,6 @@
-#리액트 
+# 리액트 
 
-##설치하기
+## 설치하기
 
 https://nodejs.org/ko/download/ (nodejs + npm)
 https://yarnpkg.com/en/docs/install#windows-stablehttps://yarnpkg.com/en/docs/install#windows-stable (yarn)
