@@ -2,9 +2,9 @@
 
 ## 설치하기
 
-https://nodejs.org/ko/download/ (nodejs + npm)
-https://yarnpkg.com/en/docs/install#windows-stablehttps://yarnpkg.com/en/docs/install#windows-stable (yarn)
-https://code.visualstudio.com/ (vscode)
+- nodejs + npm : https://nodejs.org/ko/download/ <br>
+- yarn : https://yarnpkg.com/en/docs/install#windows-stablehttps://yarnpkg.com/en/docs/install#windows-stable <br>
+- vscode : https://code.visualstudio.com/ <br>
 
 
 ## 개발환경 세팅
