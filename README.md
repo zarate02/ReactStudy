@@ -2,22 +2,13 @@
 
 ## 설치하기
 
-- nodejs + npm : https://nodejs.org/ko/download/ <br>
-- yarn : https://yarnpkg.com/en/docs/install#windows-stablehttps://yarnpkg.com/en/docs/install#windows-stable <br>
-- vscode : https://code.visualstudio.com/ <br>
+- nodejs + npm : https://nodejs.org/ko/download/
+- cmd -> npm install -g create-react-app
 
+## 프로젝트 만들기
 
-## 개발환경 세팅
+- create-react-app management (프로젝트명 management 로 프로젝트 생성)
+- yarn start (리엑트앱 실행)
+- npm install -g yarn (yarn start 시작안될시)
+- Visual Studio Code : https://visualstudio.microsoft.com/ko/downloads/
 
-VS CODE 플러그인 설치
-- ESLint
-- RelativePath
-- Guides
-- Reactjs Code Snippets
-
-## create-react-app 만들어보기
-
-- yarn global add create-react-app
-- create-react-app hello-react
-- cd hello-react
-- yarn start
