@@ -16,7 +16,7 @@ class CustomerInfo extends React.Component{
         return (
             <div>
                 <h2>{this.props.id}</h2>
-                <img src={this.props.image}></img>
+                <img src={this.props.image} alt="gg"></img>
             </div>
         )
     }
